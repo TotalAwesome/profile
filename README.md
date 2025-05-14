@@ -1,4 +1,4 @@
 # profile
-Python backend developer at SpaceVM project
+Python backend developer.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=TotalAwesome&show_icons=true&theme=dark)
